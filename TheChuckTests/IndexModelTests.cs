@@ -35,7 +35,7 @@ namespace TheChuck.Pages.Tests
             Assert.AreEqual("Något gick fel. Försök igen lite senare.", sut.DisplayText);
         }
 
-        /*
+        
 
         [TestMethod()]
         public async Task OnGet_ShouldBeUppecase()
@@ -50,7 +50,7 @@ namespace TheChuck.Pages.Tests
             //Assert
             Assert.AreEqual("WORKS", pageModel.DisplayText);
         }
-        */
+        
 
     }
 }
